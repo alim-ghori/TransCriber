@@ -1,2 +1,5 @@
 /venv/
 .streamlit
+
+lib/venv
+Script/venv
